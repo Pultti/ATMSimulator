@@ -5,6 +5,7 @@ This is a bank simulation project for OAMK's software engineering project course
 No Copyright
 
 We've invested many hours into this group project and appreciate your cooperation. If you choose to clone this project, please fork it so that we can all learn from the process.
+
 Technology Stack
 
     Backend: MySQL(database), VSCode(Node), Postman(testing)
